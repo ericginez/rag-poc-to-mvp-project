@@ -1,0 +1,12 @@
+# Fichiers temporaires Microsoft Office
+~$*.docx
+~$*.xlsx
+*.tmp
+
+# Windows
+desktop.ini
+Thumbs.db
+
+# Environnements et secrets éventuels
+.env
+.env.*
