@@ -24,7 +24,7 @@ mais à préparer son passage vers un MVP exploitable.
 
 ## Présentation
 
-La présentation de soutenance sera ajoutée après sa finalisation.
+- [Consulter la présentation de soutenance au format PDF](presentation/projet-13-rag-poc-to-mvp-project.pdf)
 
 ## Fonctionnalités prioritaires du MVP
 
@@ -77,7 +77,7 @@ joint au dépôt.
 ## Livrables
 
 - [Rapport de gestion au format PDF](rapport/rapport-gestion-projet-13.pdf)
-- [Rapport de gestion au format Word](rapport/rapport-gestion-projet-13.docx)
+- [Présentation de soutenance au format PDF](presentation/projet-13-rag-poc-to-mvp-project.pdf)
 - [Macro backlog des fonctionnalités](livrables/macro-backlog-fonctionnalites.xlsx)
 - [Estimation des coûts build et OPEX](livrables/estimation-couts-build-opex.xlsx)
 
@@ -97,4 +97,5 @@ https://ericginez.github.io/
 ## Auteur
 
 **Eric Ginez**
+
 Parcours Data Engineer — OpenClassrooms

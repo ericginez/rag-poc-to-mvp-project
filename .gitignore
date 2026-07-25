@@ -1,5 +1,6 @@
 # Fichiers temporaires Microsoft Office
-~$*.docx
+*.docx
+*.pptx
 ~$*.xlsx
 *.tmp
 
